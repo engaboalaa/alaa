@@ -1,0 +1,27 @@
+.frist-header {
+    color: red;
+}
+#second-header {
+    color: green;
+    font-family: Tahoma;
+    font-size: 35px;
+}
+
+.login{
+    margin: 50px auto;
+ padding: 50px;
+background:#ddd ;
+ width: fit-content;
+}
+
+.login input{
+    margin: 20px;
+    padding: 10px;
+}
+
+.login .log-btf{
+    width:100%;
+    background: #4435aa;
+    color: #fff;
+    padding: 10px;
+}
